@@ -125,7 +125,7 @@ This project is licensed under **MIT License** and is open for educational, demo
 
 ## 🌐 Demo
 
-➡️ [Live Demo Link](#)
+➡️ [Live Demo Link](https://vp007-dev.github.io/Elevator-Algorithm-web-app/)
 
 ---
 
