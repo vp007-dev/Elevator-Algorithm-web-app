@@ -82,8 +82,6 @@ Simply **deploy it using GitHub Pages**, Netlify, or Vercel for live simulation.
 ```
 elevator-simulation-webapp/
 ├── index.html
-├── style.css
-├── script.js
 └── README.md
 ```
 
